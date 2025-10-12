@@ -1,0 +1,142 @@
+body {
+  font-family: "Lato", sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+
+.sidenav {
+  height: 100%;
+  width: 20%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #133b32;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidenav a {
+  padding: 10px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #b1d8b7;
+  display: block;
+}
+
+.sidenav a.suboption {
+  padding: 6px 8px 6px 30px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #b1d8b7;
+  display: block;
+}
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+ 
+.sidebar a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.sidebar a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+
+div.content {
+  margin-left: 200px;
+  padding: 1px 16px;
+  height: 1000px;
+}
+
+@media screen and (max-width: 700px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  .sidebar a {float: left;}
+  div.content {margin-left: 0;}
+}
+
+@media screen and (max-width: 00px) {
+  .sidebar a {
+    text-align: center;
+    float: none;
+  }
+}
+
+.main {
+  margin-left: 20%; /* Same as the width of the sidenav */
+  margin-right: 0%;
+  font-size: 20px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+  width: 100%;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.cell_background {
+  background-color: #f0e5ba;
+}
+
+h1.A {
+  text-align:center;
+  color:#133b32;
+  font-family:Brush Script MT;
+  background-color:#b1d8b7;
+  padding: 10px;
+  border-radius: 20px;
+  margin: 15px 0px 0px 0px;
+}
+
+h1.B {
+  text-align:center;
+  color:#133b32;
+  font-family:Brush Script MT;
+  padding: 10px;
+  border-radius: 20px;
+  margin: 15px 0px 0px 0px;
+}
+
+h2.A {
+  text-align:center;
+  color:#133b32;
+  font-family:arial;
+  border:5px solid #b1d8b7;
+  border-style: dashed;
+  padding: 10px;
+  margin: 2px 0px;
+  border-radius: 20px
+}
+
+h3.A {
+  color:#133b32;
+  font-family:arial;
+}
+
+p.A {
+  color:#133b32;
+  font-family:arial;
+}
+
+p.B {
+  text-align:center;
+  color:#133b32;
+  font-family:arial;
+  background-color:#b1d8b7;
+  padding: 8px;
+  border-radius: 20px
+}
