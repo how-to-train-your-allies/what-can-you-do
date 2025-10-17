@@ -21,7 +21,7 @@ SA: Adaptations must be shared under the same terms.
 
 ## The Booklet
 
-This reposiory provides a HTML version of the booklet. To access, simply proceed to the [GitHub Pages for this repository](https://how-to-train-your-allies.github.io/what-can-you-do/). In addition, we have provided a PDF version of the booklet on [our website](https://sites.google.com/view/how-to-train-your-allies/resources/what-can-you-do-booklet). We license both under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+This reposiory provides a HTML version of the booklet, written by Rosie Evans. To access, simply proceed to the [GitHub Pages for this repository](https://how-to-train-your-allies.github.io/what-can-you-do/). In addition, we have provided a PDF version of the booklet on [our website](https://sites.google.com/view/how-to-train-your-allies/resources/what-can-you-do-booklet). We license both under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Resources
 
