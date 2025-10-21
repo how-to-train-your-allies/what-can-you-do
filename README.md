@@ -3,7 +3,7 @@ The aim of this booklet is to provide practical guidance for those wishing to do
 
 ## Introduction
 
-This booklet is a collaboration between our group and the Piscopia Initiative. The advice has come from Rosie Evans's experience as co-lead of Piscopia; the How to Train Your Allies group's collective involvement in Equality, Diversity and Inclusion committees; several academics; and the Piscopia community across the UK. The aim is that this booklet be made available online and to seek funding to print physical copies for distribution. If you would like to print physical copies, please get in touch with us so that we can keep track of the impact this booklet has had! Similarly, if you find this booklet helpful or have recommendations for future versions, please email us:
+This booklet is a collaboration between our group and the Piscopia Initiative. The advice has come from Dr Rosie Evans's experience as co-lead of Piscopia; the How to Train Your Allies group's collective involvement in Equality, Diversity and Inclusion committees; several academics; and the Piscopia community across the UK. The aim is that this booklet be made available online and to seek funding to print physical copies for distribution. If you would like to print physical copies, please get in touch with us so that we can keep track of the impact this booklet has had! Similarly, if you find this booklet helpful or have recommendations for future versions, please email us:
 
 [howtotrainyourallies@gmail.com](mailto:howtotrainyourallies@gmail.com) and [piscopiainitiative@gmail.com](mailto:piscopiainitiative@gmail.com)
 
@@ -21,7 +21,7 @@ SA: Adaptations must be shared under the same terms.
 
 ## The Booklet
 
-This reposiory provides a HTML version of the booklet, written by Rosie Evans. To access, simply proceed to the [GitHub Pages for this repository](https://how-to-train-your-allies.github.io/what-can-you-do/). In addition, we have provided a PDF version of the booklet on [our website](https://sites.google.com/view/how-to-train-your-allies/resources/what-can-you-do-booklet). We license both under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+This reposiory provides a HTML version of the booklet, written by Dr Rosie Evans. To access, simply proceed to the [GitHub Pages for this repository](https://how-to-train-your-allies.github.io/what-can-you-do/). In addition, we have provided a PDF version of the booklet on [our website](https://sites.google.com/view/how-to-train-your-allies/resources/what-can-you-do-booklet). We license both under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Resources
 
